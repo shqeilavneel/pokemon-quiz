@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>Pokémon Quiz</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div id="app">
+
+  <!-- START SCREEN -->
+  <div id="start-screen" class="screen active">
+    <img src="images/pikachu.png" class="hero" />
+    <button onclick="startGame()">Play</button>
+  </div>
+
+  <!-- LEVEL SELECT -->
+  <div id="level-screen" class="screen">
+    <h2>Choose Level</h2>
+    <div class="levels">
+      <button onclick="loadLevel(1)">⭐</button>
+      <button onclick="loadLevel(2)">⭐⭐</button>
+      <button onclick="loadLevel(3)">⭐⭐⭐</button>
+    </div>
+  </div>
+
+  <!-- QUESTION -->
+  <div id="question-screen" class="screen">
+    <div id="options" class="options"></div>
+  </div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
