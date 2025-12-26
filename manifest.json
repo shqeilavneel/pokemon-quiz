@@ -1,0 +1,8 @@
+{
+  "name": "Pokemon Quiz",
+  "short_name": "Pokemon Quiz",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffcc00"
+}
