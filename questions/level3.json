@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which legendary Pokémon was created by science?",
+    "correct": "Mewtwo",
+    "options": [
+      { "name": "Mewtwo", "image": "mewtwo.png" },
+      { "name": "Rayquaza", "image": "rayquaza.png" },
+      { "name": "Dialga", "image": "dialga.png" },
+      { "name": "Zacian", "image": "zacian.png" }
+    ]
+  }
+]
