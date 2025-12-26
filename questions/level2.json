@@ -1,12 +1,102 @@
 [
   {
-    "question": "Which Pokémon evolves from Riolu?",
-    "correct": "Lucario",
+    "question": "Which Pokémon evolves into Raichu?",
+    "correct": "Pikachu",
     "options": [
-      { "name": "Lucario", "image": "lucario.png" },
-      { "name": "Zoroark", "image": "zoroark.png" },
-      { "name": "Infernape", "image": "infernape.png" },
-      { "name": "Machamp", "image": "machamp.png" }
+      { "name": "Pikachu", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" },
+      { "name": "Charmander", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" },
+      { "name": "Bulbasaur", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" },
+      { "name": "Squirtle", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves from Eevee using a Water Stone?",
+    "correct": "Vaporeon",
+    "options": [
+      { "name": "Vaporeon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png" },
+      { "name": "Jolteon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png" },
+      { "name": "Flareon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png" },
+      { "name": "Espeon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves into Charizard?",
+    "correct": "Charmeleon",
+    "options": [
+      { "name": "Charmeleon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png" },
+      { "name": "Charmander", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" },
+      { "name": "Squirtle", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" },
+      { "name": "Bulbasaur", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves from Magikarp?",
+    "correct": "Gyarados",
+    "options": [
+      { "name": "Gyarados", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png" },
+      { "name": "Magikarp", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png" },
+      { "name": "Dragonite", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png" },
+      { "name": "Lapras", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves into Gengar?",
+    "correct": "Haunter",
+    "options": [
+      { "name": "Haunter", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png" },
+      { "name": "Gastly", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png" },
+      { "name": "Gengar", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" },
+      { "name": "Mimikyu", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves into Metagross?",
+    "correct": "Metang",
+    "options": [
+      { "name": "Metang", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png" },
+      { "name": "Beldum", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png" },
+      { "name": "Metagross", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png" },
+      { "name": "Mawile", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves into Steelix?",
+    "correct": "Onix",
+    "options": [
+      { "name": "Onix", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png" },
+      { "name": "Steelix", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png" },
+      { "name": "Geodude", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png" },
+      { "name": "Rhydon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves from Larvitar?",
+    "correct": "Pupitar",
+    "options": [
+      { "name": "Pupitar", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png" },
+      { "name": "Larvitar", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png" },
+      { "name": "Tyranitar", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png" },
+      { "name": "Bagon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves into Kingdra?",
+    "correct": "Seadra",
+    "options": [
+      { "name": "Seadra", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png" },
+      { "name": "Horsea", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png" },
+      { "name": "Kingdra", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png" },
+      { "name": "Gyarados", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon evolves into Blastoise?",
+    "correct": "Wartortle",
+    "options": [
+      { "name": "Wartortle", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png" },
+      { "name": "Squirtle", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" },
+      { "name": "Blastoise", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" },
+      { "name": "Totodile", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png" }
     ]
   }
 ]
