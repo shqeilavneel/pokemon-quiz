@@ -3,100 +3,100 @@
     "question": "Which Pokémon is Ghost and Poison type?",
     "correct": "Gengar",
     "options": [
-      { "name": "Gengar", "image": "gengar.png" },
-      { "name": "Lucario", "image": "lucario.png" },
-      { "name": "Greninja", "image": "greninja.png" },
-      { "name": "Pikachu", "image": "pikachu.png" }
+      { "name": "Gengar", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" },
+      { "name": "Lucario", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png" },
+      { "name": "Greninja", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png" },
+      { "name": "Pikachu", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" }
     ]
   },
   {
     "question": "Which Pokémon is Electric type?",
     "correct": "Pikachu",
     "options": [
-      { "name": "Pikachu", "image": "pikachu.png" },
-      { "name": "Eevee", "image": "eevee.png" },
-      { "name": "Meowth", "image": "meowth.png" },
-      { "name": "Snorlax", "image": "snorlax.png" }
+      { "name": "Pikachu", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" },
+      { "name": "Eevee", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png" },
+      { "name": "Meowth", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png" },
+      { "name": "Snorlax", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" }
     ]
   },
   {
     "question": "Which Pokémon is Fire type?",
     "correct": "Charmander",
     "options": [
-      { "name": "Charmander", "image": "charmander.png" },
-      { "name": "Squirtle", "image": "squirtle.png" },
-      { "name": "Bulbasaur", "image": "bulbasaur.png" },
-      { "name": "Pidgey", "image": "pidgey.png" }
+      { "name": "Charmander", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" },
+      { "name": "Squirtle", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" },
+      { "name": "Bulbasaur", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" },
+      { "name": "Pidgey", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png" }
     ]
   },
   {
     "question": "Which Pokémon is Water type?",
     "correct": "Squirtle",
     "options": [
-      { "name": "Squirtle", "image": "squirtle.png" },
-      { "name": "Charmander", "image": "charmander.png" },
-      { "name": "Geodude", "image": "geodude.png" },
-      { "name": "Pikachu", "image": "pikachu.png" }
+      { "name": "Squirtle", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" },
+      { "name": "Charmander", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" },
+      { "name": "Geodude", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png" },
+      { "name": "Pikachu", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" }
     ]
   },
   {
     "question": "Which Pokémon is Psychic type?",
     "correct": "Alakazam",
     "options": [
-      { "name": "Alakazam", "image": "alakazam.png" },
-      { "name": "Machamp", "image": "machamp.png" },
-      { "name": "Golem", "image": "golem.png" },
-      { "name": "Onix", "image": "onix.png" }
+      { "name": "Alakazam", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png" },
+      { "name": "Machamp", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png" },
+      { "name": "Golem", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png" },
+      { "name": "Onix", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png" }
     ]
   },
   {
     "question": "Which Pokémon is Dark type?",
     "correct": "Umbreon",
     "options": [
-      { "name": "Umbreon", "image": "umbreon.png" },
-      { "name": "Espeon", "image": "espeon.png" },
-      { "name": "Sylveon", "image": "sylveon.png" },
-      { "name": "Jolteon", "image": "jolteon.png" }
+      { "name": "Umbreon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png" },
+      { "name": "Espeon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png" },
+      { "name": "Sylveon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png" },
+      { "name": "Jolteon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png" }
     ]
   },
   {
     "question": "Which Pokémon is Fighting type?",
     "correct": "Lucario",
     "options": [
-      { "name": "Lucario", "image": "lucario.png" },
-      { "name": "Gengar", "image": "gengar.png" },
-      { "name": "Snorlax", "image": "snorlax.png" },
-      { "name": "Lapras", "image": "lapras.png" }
+      { "name": "Lucario", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png" },
+      { "name": "Gengar", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" },
+      { "name": "Snorlax", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" },
+      { "name": "Lapras", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png" }
     ]
   },
   {
     "question": "Which Pokémon is Grass and Poison type?",
     "correct": "Bulbasaur",
     "options": [
-      { "name": "Bulbasaur", "image": "bulbasaur.png" },
-      { "name": "Oddish", "image": "oddish.png" },
-      { "name": "Chikorita", "image": "chikorita.png" },
-      { "name": "Treecko", "image": "treecko.png" }
+      { "name": "Bulbasaur", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" },
+      { "name": "Oddish", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png" },
+      { "name": "Chikorita", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png" },
+      { "name": "Treecko", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png" }
     ]
   },
   {
     "question": "Which Pokémon is Rock and Ground type?",
     "correct": "Onix",
     "options": [
-      { "name": "Onix", "image": "onix.png" },
-      { "name": "Steelix", "image": "steelix.png" },
-      { "name": "Golem", "image": "golem.png" },
-      { "name": "Rhydon", "image": "rhydon.png" }
+      { "name": "Onix", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png" },
+      { "name": "Steelix", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png" },
+      { "name": "Golem", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png" },
+      { "name": "Rhydon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png" }
     ]
   },
   {
     "question": "Which Pokémon is Ice type?",
     "correct": "Lapras",
     "options": [
-      { "name": "Lapras", "image": "lapras.png" },
-      { "name": "Vaporeon", "image": "vaporeon.png" },
-      { "name": "Articuno", "image": "articuno.png" },
-      { "name": "Glaceon", "image": "glaceon.png" }
+      { "name": "Lapras", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png" },
+      { "name": "Vaporeon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png" },
+      { "name": "Articuno", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png" },
+      { "name": "Glaceon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png" }
     ]
   }
 ]
