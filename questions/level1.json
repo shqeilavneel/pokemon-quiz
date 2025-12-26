@@ -1,12 +1,102 @@
 [
   {
-    "question": "Which Pokémon is a Ghost and Poison type?",
+    "question": "Which Pokémon is Ghost and Poison type?",
     "correct": "Gengar",
     "options": [
       { "name": "Gengar", "image": "gengar.png" },
       { "name": "Lucario", "image": "lucario.png" },
       { "name": "Greninja", "image": "greninja.png" },
       { "name": "Pikachu", "image": "pikachu.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Electric type?",
+    "correct": "Pikachu",
+    "options": [
+      { "name": "Pikachu", "image": "pikachu.png" },
+      { "name": "Eevee", "image": "eevee.png" },
+      { "name": "Meowth", "image": "meowth.png" },
+      { "name": "Snorlax", "image": "snorlax.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Fire type?",
+    "correct": "Charmander",
+    "options": [
+      { "name": "Charmander", "image": "charmander.png" },
+      { "name": "Squirtle", "image": "squirtle.png" },
+      { "name": "Bulbasaur", "image": "bulbasaur.png" },
+      { "name": "Pidgey", "image": "pidgey.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Water type?",
+    "correct": "Squirtle",
+    "options": [
+      { "name": "Squirtle", "image": "squirtle.png" },
+      { "name": "Charmander", "image": "charmander.png" },
+      { "name": "Geodude", "image": "geodude.png" },
+      { "name": "Pikachu", "image": "pikachu.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Psychic type?",
+    "correct": "Alakazam",
+    "options": [
+      { "name": "Alakazam", "image": "alakazam.png" },
+      { "name": "Machamp", "image": "machamp.png" },
+      { "name": "Golem", "image": "golem.png" },
+      { "name": "Onix", "image": "onix.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Dark type?",
+    "correct": "Umbreon",
+    "options": [
+      { "name": "Umbreon", "image": "umbreon.png" },
+      { "name": "Espeon", "image": "espeon.png" },
+      { "name": "Sylveon", "image": "sylveon.png" },
+      { "name": "Jolteon", "image": "jolteon.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Fighting type?",
+    "correct": "Lucario",
+    "options": [
+      { "name": "Lucario", "image": "lucario.png" },
+      { "name": "Gengar", "image": "gengar.png" },
+      { "name": "Snorlax", "image": "snorlax.png" },
+      { "name": "Lapras", "image": "lapras.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Grass and Poison type?",
+    "correct": "Bulbasaur",
+    "options": [
+      { "name": "Bulbasaur", "image": "bulbasaur.png" },
+      { "name": "Oddish", "image": "oddish.png" },
+      { "name": "Chikorita", "image": "chikorita.png" },
+      { "name": "Treecko", "image": "treecko.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Rock and Ground type?",
+    "correct": "Onix",
+    "options": [
+      { "name": "Onix", "image": "onix.png" },
+      { "name": "Steelix", "image": "steelix.png" },
+      { "name": "Golem", "image": "golem.png" },
+      { "name": "Rhydon", "image": "rhydon.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is Ice type?",
+    "correct": "Lapras",
+    "options": [
+      { "name": "Lapras", "image": "lapras.png" },
+      { "name": "Vaporeon", "image": "vaporeon.png" },
+      { "name": "Articuno", "image": "articuno.png" },
+      { "name": "Glaceon", "image": "glaceon.png" }
     ]
   }
 ]
