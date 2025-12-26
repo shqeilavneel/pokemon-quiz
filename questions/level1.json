@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which Pokémon is a Ghost and Poison type?",
+    "correct": "Gengar",
+    "options": [
+      { "name": "Gengar", "image": "gengar.png" },
+      { "name": "Lucario", "image": "lucario.png" },
+      { "name": "Greninja", "image": "greninja.png" },
+      { "name": "Pikachu", "image": "pikachu.png" }
+    ]
+  }
+]
