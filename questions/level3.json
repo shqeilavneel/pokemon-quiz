@@ -1,12 +1,102 @@
 [
   {
-    "question": "Which legendary Pokémon was created by science?",
-    "correct": "Mewtwo",
+    "question": "Which Pokémon is the legendary guardian of the sea in Kanto?",
+    "correct": "Suicune",
     "options": [
-      { "name": "Mewtwo", "image": "mewtwo.png" },
-      { "name": "Rayquaza", "image": "rayquaza.png" },
-      { "name": "Dialga", "image": "dialga.png" },
-      { "name": "Zacian", "image": "zacian.png" }
+      { "name": "Suicune", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png" },
+      { "name": "Articuno", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png" },
+      { "name": "Kyogre", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png" },
+      { "name": "Lugia", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is the legendary fire bird?",
+    "correct": "Moltres",
+    "options": [
+      { "name": "Moltres", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png" },
+      { "name": "Ho-Oh", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png" },
+      { "name": "Charizard", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" },
+      { "name": "Zapdos", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is the dragon king of Hoenn?",
+    "correct": "Rayquaza",
+    "options": [
+      { "name": "Rayquaza", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" },
+      { "name": "Garchomp", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png" },
+      { "name": "Salamence", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png" },
+      { "name": "Dragonite", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is the legendary sea king of Johto?",
+    "correct": "Suicune",
+    "options": [
+      { "name": "Suicune", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png" },
+      { "name": "Kyogre", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png" },
+      { "name": "Gyarados", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png" },
+      { "name": "Lugia", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon controls time in Sinnoh?",
+    "correct": "Dialga",
+    "options": [
+      { "name": "Dialga", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png" },
+      { "name": "Palkia", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png" },
+      { "name": "Giratina", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png" },
+      { "name": "Regigigas", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is the lake guardian of Sinnoh?",
+    "correct": "Uxie",
+    "options": [
+      { "name": "Uxie", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png" },
+      { "name": "Azelf", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png" },
+      { "name": "Mesprit", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png" },
+      { "name": "Celebi", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is the legendary fire lion of Unova?",
+    "correct": "Reshiram",
+    "options": [
+      { "name": "Reshiram", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png" },
+      { "name": "Zekrom", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png" },
+      { "name": "Entei", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png" },
+      { "name": "Heatran", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is the legendary dragon of Unova?",
+    "correct": "Zekrom",
+    "options": [
+      { "name": "Zekrom", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png" },
+      { "name": "Reshiram", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png" },
+      { "name": "Dragonite", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png" },
+      { "name": "Hydreigon", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is the legendary wolf of Sinnoh?",
+    "correct": "Zacian",
+    "options": [
+      { "name": "Zacian", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png" },
+      { "name": "Zamazenta", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png" },
+      { "name": "Entei", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png" },
+      { "name": "Suicune", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png" }
+    ]
+  },
+  {
+    "question": "Which Pokémon is the legendary wolf of the Galar region?",
+    "correct": "Zamazenta",
+    "options": [
+      { "name": "Zamazenta", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png" },
+      { "name": "Zacian", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png" },
+      { "name": "Eternatus", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png" },
+      { "name": "Mewtwo", "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" }
     ]
   }
 ]
