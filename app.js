@@ -17,13 +17,14 @@ function startGame() {
 
 function loadLevel(level) {
   fetch(`questions/level${level}.json`)
-    .then(res => res.json())
-    .then(data => {
-      questions = shuffle(data);
-      currentQuestion = 0;
-      showScreen("question-screen");
-      askQuestion();
-    });
+  .then(res => res.json())
+  .then(data => {
+    const shuffled = shuffle(data);      // shuffle all questions
+    questions = shuffled.slice(0, 10);   // pick first 10
+    currentQuestion = 0;
+    showScreen("question-screen");
+    askQuestion();
+  });
 }
 
 function askQuestion() {
@@ -39,7 +40,13 @@ function askQuestion() {
     btn.innerHTML = `<img src="images/${opt.image}" />`;
     btn.onclick = () => selectOption(opt, q.correct);
     optionsDiv.appendChild(btn);
-  });
+  q.options.forEach(opt => {
+  const btn = document.createElement("div");
+  btn.className = "option";
+  btn.innerHTML = `<img src="${opt.image}" />`;  // uses the URL from JSON
+  btn.onclick = () => selectOption(opt, q.correct);
+  optionsDiv.appendChild(btn);
+});
 }
 
 function selectOption(option, correct) {
